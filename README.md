@@ -1,1 +1,2 @@
 # Module-1-Code-Refractor
+My goal is to make sure that the people will get to undestand the ways of search enginering. They will also uginderdand online reputations are and the outlook on social life on the internet as a whole.
